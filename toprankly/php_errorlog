@@ -1,0 +1,8 @@
+[02-Nov-2017 08:19:56 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'trl_home_genesis_meta' not found or invalid function name in /home/bdhire71/public_html/toprankly.com/wp-includes/class-wp-hook.php on line 298
+[02-Nov-2017 08:20:35 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'sbwp_loop' not found or invalid function name in /home/bdhire71/public_html/toprankly.com/wp-includes/class-wp-hook.php on line 298
+[19-Dec-2017 05:05:46 UTC] PHP Warning:  fopen(https://ninjaforms.com/): failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home/bdhire71/public_html/toprankly.com/wp-content/plugins/ninja-forms/includes/Helper.php on line 277
+[19-Dec-2017 05:05:46 UTC] PHP Warning:  stream_get_meta_data() expects parameter 1 to be resource, boolean given in /home/bdhire71/public_html/toprankly.com/wp-content/plugins/ninja-forms/includes/Helper.php on line 277
+[18-Jan-2018 02:51:11 UTC] PHP Warning:  mkdir(): Permission denied in phar:///chroot/wp-cli/vendor/wp-cli/wp-cli/bin/wp-cli.phar/php/WP_CLI/FileCache.php on line 265
+[18-Jan-2018 02:51:15 UTC] PHP Warning:  mkdir(): Permission denied in phar:///chroot/wp-cli/vendor/wp-cli/wp-cli/bin/wp-cli.phar/php/WP_CLI/FileCache.php on line 265
+[18-Jan-2018 02:51:22 UTC] PHP Warning:  mkdir(): Permission denied in phar:///chroot/wp-cli/vendor/wp-cli/wp-cli/bin/wp-cli.phar/php/WP_CLI/FileCache.php on line 265

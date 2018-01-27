@@ -1,0 +1,203 @@
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* VERSION: 1.2.32
+* STEP-1 START @ 03:28:45
+* NOTICE: Do NOT post this data to public sites or forums
+********************************************************************************
+PHP VERSION:	7.2.0 | SAPI: apache2handler
+PHP TIME LIMIT:	[0] time limit restriction disabled
+PHP MEMORY:	2048M | SUHOSIN: disabled
+SERVER:		Apache/2.4.29 (Win32) OpenSSL/1.1.0g PHP/7.2.0
+DOC ROOT:	C:/xampp/htdocs/tpl_backup/toprankly
+DOC ROOT 755:	true
+LOG FILE 644:	true
+REQUEST URL:	http://localhost/tpl_backup/toprankly/installer.php
+SAFE MODE :	0
+--------------------------------------
+ARCHIVE EXTRACTION
+--------------------------------------
+NAME:	20180125_toprankly_28d6e893977912b06532180125112321_archive.zip
+SIZE:	46.67MB
+ZIP:	Enabled (ZipArchive Support)
+
+>>> START EXTRACTION:
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 6865
+    [filename] => C:\xampp\htdocs\tpl_backup\toprankly\20180125_toprankly_28d6e893977912b06532180125112321_archive.zip
+    [comment] => 
+)
+File timestamp is 'Current' mode: 2018-01-27 03:29:08
+<<< EXTRACTION COMPLETE: true
+
+WEB SERVER CONFIGURATION FILE RESET:
+- Backup of .htaccess/web.config made to *.180127032908.orig
+- Reset of .htaccess/web.config files
+
+STEP-1 COMPLETE @ 03:29:08 - RUNTIME: 23.0503 sec.
+
+
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* STEP-2 START @ 03:29:33
+* NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+--------------------------------------
+DATABASE ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 10.1.29 -- Build Server: 5.6.36
+FILE SIZE:	database.sql (5.11MB) - installer-data.sql (5.11MB)
+TIMEOUT:	5000
+MAXPACK:	1048576
+SQLMODE:	NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[C:/xampp/htdocs/tpl_backup/toprankly/installer-data.sql]
+COLLATE RESET:	On
+
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+ERRORS FOUND:	0
+TABLES DROPPED:	36
+QUERIES RAN:	328
+
+wpyj_commentmeta: (0)
+wpyj_comments: (0)
+wpyj_duplicator_packages: (1)
+wpyj_links: (0)
+wpyj_nf3_action_meta: (89)
+wpyj_nf3_actions: (4)
+wpyj_nf3_field_meta: (313)
+wpyj_nf3_fields: (6)
+wpyj_nf3_form_meta: (109)
+wpyj_nf3_forms: (1)
+wpyj_nf3_object_meta: (0)
+wpyj_nf3_objects: (0)
+wpyj_nf3_relationships: (0)
+wpyj_options: (552)
+wpyj_postmeta: (527)
+wpyj_posts: (685)
+wpyj_term_relationships: (16)
+wpyj_term_taxonomy: (17)
+wpyj_termmeta: (22)
+wpyj_terms: (17)
+wpyj_usermeta: (57)
+wpyj_users: (2)
+wpyj_woocommerce_api_keys: (0)
+wpyj_woocommerce_attribute_taxonomies: (0)
+wpyj_woocommerce_downloadable_product_permissions: (0)
+wpyj_woocommerce_log: (0)
+wpyj_woocommerce_order_itemmeta: (0)
+wpyj_woocommerce_order_items: (0)
+wpyj_woocommerce_payment_tokenmeta: (0)
+wpyj_woocommerce_payment_tokens: (0)
+wpyj_woocommerce_sessions: (2)
+wpyj_woocommerce_shipping_zone_locations: (0)
+wpyj_woocommerce_shipping_zone_methods: (0)
+wpyj_woocommerce_shipping_zones: (0)
+wpyj_woocommerce_tax_rate_locations: (0)
+wpyj_woocommerce_tax_rates: (0)
+
+Removed '235' cache/transient rows
+
+CREATE/INSTALL RUNTIME: 16.5409 sec.
+STEP-2 COMPLETE @ 03:29:56 - RUNTIME: 22.9143 sec.
+
+
+********************************************************************************
+* DUPLICATOR-LITE: INSTALL-LOG
+* STEP-3 START @ 03:30:07
+* NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	latin1
+CHARSET CLIENT:	utf8
+--------------------------------------
+SERIALIZER ENGINE
+[*] scan every column
+[~] scan only text columns
+[^] no searchable columns
+--------------------------------------
+wpyj_commentmeta^ (0)
+wpyj_comments^ (0)
+wpyj_duplicator_packages^ (0)
+wpyj_links^ (0)
+wpyj_nf3_action_meta~ (89)
+wpyj_nf3_actions~ (4)
+wpyj_nf3_field_meta~ (313)
+wpyj_nf3_fields~ (6)
+wpyj_nf3_form_meta~ (109)
+wpyj_nf3_forms~ (1)
+wpyj_nf3_object_meta^ (0)
+wpyj_nf3_objects^ (0)
+wpyj_nf3_relationships^ (0)
+wpyj_options~ (315)
+wpyj_postmeta~ (527)
+wpyj_posts~ (685)
+wpyj_term_relationships~ (16)
+wpyj_term_taxonomy~ (17)
+wpyj_termmeta~ (22)
+wpyj_terms~ (17)
+wpyj_usermeta~ (57)
+wpyj_users~ (2)
+wpyj_woocommerce_api_keys^ (0)
+wpyj_woocommerce_attribute_taxonomies^ (0)
+wpyj_woocommerce_downloadable_product_permissions^ (0)
+wpyj_woocommerce_log^ (0)
+wpyj_woocommerce_order_itemmeta^ (0)
+wpyj_woocommerce_order_items^ (0)
+wpyj_woocommerce_payment_tokenmeta^ (0)
+wpyj_woocommerce_payment_tokens^ (0)
+wpyj_woocommerce_sessions~ (2)
+wpyj_woocommerce_shipping_zone_locations^ (0)
+wpyj_woocommerce_shipping_zone_methods^ (0)
+wpyj_woocommerce_shipping_zones^ (0)
+wpyj_woocommerce_tax_rate_locations^ (0)
+wpyj_woocommerce_tax_rates^ (0)
+--------------------------------------
+Search1:	'/home/bdhire71/public_html/toprankly.com' 
+Change1:	'C:/xampp/htdocs/tpl_backup/toprankly' 
+Search2:	'\/home\/bdhire71\/public_html\/toprankly.com' 
+Change2:	'C:\/xampp\/htdocs\/tpl_backup\/toprankly' 
+Search3:	'%2Fhome%2Fbdhire71%2Fpublic_html%2Ftoprankly.com%2F' 
+Change3:	'C%3A%2Fxampp%2Fhtdocs%2Ftpl_backup%2Ftoprankly%2F' 
+Search4:	'\home\bdhire71\public_html\toprankly.com' 
+Change4:	'C:/xampp/htdocs/tpl_backup/toprankly' 
+Search5:	'//www.toprankly.com' 
+Change5:	'//localhost/tpl_backup/toprankly' 
+Search6:	'\/\/www.toprankly.com' 
+Change6:	'\/\/localhost\/tpl_backup\/toprankly' 
+Search7:	'%2F%2Fwww.toprankly.com' 
+Change7:	'%2F%2Flocalhost%2Ftpl_backup%2Ftoprankly' 
+SCANNED:	Tables:36 	|	 Rows:2182 	|	 Cells:21810 
+UPDATED:	Tables:1 	|	 Rows:694 	|	 Cells:992 
+ERRORS:		0 
+RUNTIME:	3.909200 sec
+
+====================================
+CONFIGURATION FILE UPDATES:
+====================================
+
+UPDATED WP-CONFIG: /wp-config.php' (if present)
+
+WEB SERVER CONFIGURATION FILE BASIC SETUP:
+- Preparing .htaccess file with basic setup.
+Basic .htaccess file edit complete.  If using IIS web.config this process will need to be done manually.
+
+====================================
+GENERAL UPDATES & CLEANUP:
+====================================
+
+- Created directory wp-snapshots
+- Created file wp-snapshots/index.php
+
+====================================
+NOTICES
+====================================
+
+No Notices Found
+
+
+STEP 3 COMPLETE @ 03:30:11 - RUNTIME: 4.3052 sec.
+
+
